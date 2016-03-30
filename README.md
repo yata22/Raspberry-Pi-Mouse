@@ -12,7 +12,7 @@ The Raspberry Pi require a Sense Hat
 `cmake ../src/client/`<br />
 `make`<br />
 `./Client`<br />
-### Server - A computer (could be the same Raspberry Pi !)
+### Server - A linux computer (could be the same Raspberry Pi !)
 
 `cd build/`<br />
 `cmake ../src/server/`<br />
